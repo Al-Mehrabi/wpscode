@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: 8#98aa9e;
+    
+  }
+  
+header nav {
+    margin-top: 10px;
+    display: flex;
+    justify-content:center;
+  
+  }
+  header .nav-list li {
+    margin: 0 15px;
+    
+  }
+  section{
+    display: flex;
+    flex-direction: column;
+  }
